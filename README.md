@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 # Daniel de Souza
 
 Advogado empresarial em Brasília. Dez anos em tecnologia e infraestrutura antes do Direito — e é desse cruzamento que vem o trabalho aqui.
