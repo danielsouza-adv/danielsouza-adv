@@ -29,11 +29,10 @@ Três regras que valem para tudo que publico aqui:
 
 ### Contato
 
-Dr. Daniel de Souza · OAB/DF 71.124
+Dr. Daniel de Souza · OAB/DF 71.124<br>
 D'Souza Advocacia Empresarial · Brasília/DF
 
 [Site](https://danielssouza.com) · [LinkedIn](https://www.linkedin.com/in/danielsouza2)
-
 <!--
 **danielsouza-adv/danielsouza-adv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
